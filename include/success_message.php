@@ -1,0 +1,1 @@
+<span style="color: green;">Вы успешно авторизовались</span>
